@@ -1,0 +1,1548 @@
+2024-06-03 09:22:35 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:35 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:36 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:36 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:37 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:37 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:38 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:38 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:39 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:39 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:40 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:40 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:41 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:41 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:42 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:42 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:43 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:43 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:44 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:44 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:45 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:45 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:46 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:46 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:47 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:47 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:48 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:48 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:49 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:49 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:50 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:50 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:51 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:52 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:52 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:53 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:53 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:54 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:54 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:55 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:55 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:56 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:56 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:57 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:57 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:58 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:58 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:59 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:22:59 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:00 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:00 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:01 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:01 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:02 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:02 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:03 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:03 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:04 - 类名:org.springframework.jdbc.datasource.DataSourceTransactionManager,文件名:DataSourceTransactionManager.java,行数:309,办法名:doBegin
+2024-06-03 09:23:04 - 异常信息: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException
+2024-06-03 09:23:34 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:34 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:35 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:35 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:36 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:36 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:37 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:37 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:38 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:38 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:39 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:39 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:40 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:40 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:41 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:41 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:42 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:43 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:43 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:44 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:44 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:45 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:45 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:46 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:46 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:47 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:47 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:48 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:48 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:49 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:49 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:50 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:50 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:51 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:51 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:52 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:52 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:53 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:53 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:54 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:54 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:55 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:55 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:56 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:56 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:57 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:57 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:58 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:58 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:59 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:23:59 - create connection SQLException, url: jdbc:mysql://localhost:3306/xc_demo?useSSL=false&serverTimezone=GMT%2B8, errorCode 1045, state 28000
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1644)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1710)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2753)
+2024-06-03 09:24:00 - 类名:org.springframework.jdbc.datasource.DataSourceTransactionManager,文件名:DataSourceTransactionManager.java,行数:309,办法名:doBegin
+2024-06-03 09:24:00 - 异常信息: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException
+2024-06-03 09:24:57 - 类名:com.ojxchen.service.Impl.AuthServiceImpl,文件名:AuthServiceImpl.java,行数:118,办法名:login
+2024-06-03 09:24:57 - 异常信息: 11
+2024-06-03 09:25:40 - 类名:com.ojxchen.service.Impl.AuthServiceImpl,文件名:AuthServiceImpl.java,行数:124,办法名:login
+2024-06-03 09:25:40 - 异常信息: 11
+2024-06-03 09:45:10 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 09:45:10 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.register(com.ojxchen.dto.RegisterRequest) throws java.lang.Exception: [Field error in object 'registerRequest' on field 'username': rejected value [Admin]; codes [Pattern.registerRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [registerRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@4a17f7ad,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] 
+2024-06-03 10:16:06 - 类名:com.ojxchen.Interceptor.AuthorizationInterceptor,文件名:AuthorizationInterceptor.java,行数:38,办法名:preHandle
+2024-06-03 10:16:06 - 异常信息: null
+2024-06-03 10:31:17 - 类名:org.mybatis.spring.MyBatisExceptionTranslator,文件名:MyBatisExceptionTranslator.java,行数:96,办法名:translateExceptionIfPossible
+2024-06-03 10:31:17 - 异常信息: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+2024-06-03 10:33:16 - 类名:org.mybatis.spring.MyBatisExceptionTranslator,文件名:MyBatisExceptionTranslator.java,行数:96,办法名:translateExceptionIfPossible
+2024-06-03 10:33:16 - 异常信息: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+2024-06-03 11:35:10 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2024-06-03 11:35:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2024-06-03 11:42:20 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 11:42:20 - 异常信息: JWT expired at 2024-06-03T11:10:58Z. Current time: 2024-06-03T11:42:20Z, a difference of 1882091 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 13:18:13 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 13:18:13 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.updatePassword(com.ojxchen.dto.UpdatePasswordRequest,javax.servlet.http.HttpServletRequest) throws java.lang.Exception: [Field error in object 'updatePasswordRequest' on field 'oldPassword': rejected value [Xc12345]; codes [Pattern.updatePasswordRequest.oldPassword,Pattern.oldPassword,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [updatePasswordRequest.oldPassword,oldPassword]; arguments []; default message [oldPassword],[Ljavax.validation.constraints.Pattern$Flag;@8eeecb1,^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$]; default message [需要匹配正则表达式"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$"]] 
+2024-06-03 13:24:34 - 类名:org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter,文件名:AbstractJackson2HttpMessageConverter.java,行数:391,办法名:readJavaType
+2024-06-03 13:24:34 - 异常信息: JSON parse error: Invalid numeric value: Leading zeroes not allowed; nested exception is com.fasterxml.jackson.core.JsonParseException: Invalid numeric value: Leading zeroes not allowed
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 4, column: 13]
+2024-06-03 14:03:14 - 类名:org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator,文件名:SQLErrorCodeSQLExceptionTranslator.java,行数:239,办法名:doTranslate
+2024-06-03 14:03:14 - 异常信息: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'n' in 'field list'
+### The error may exist in com/ojxchen/mapper/LoginStatisticsMapper.java (best guess)
+### The error may involve com.ojxchen.mapper.LoginStatisticsMapper.countLoginStatisticsByUserIdInLast7Days-Inline
+### The error occurred while setting parameters
+### SQL: SELECT DATE_SUB(CURDATE(), INTERVAL n DAY) as date, IFNULL(COUNT(user_id), 0) as count FROM (     SELECT DISTINCT DATE(create_at) as date     FROM login_statistics     WHERE user_id = ?       AND create_at >= DATE_SUB(CURDATE(), INTERVAL 7 DAY) ) AS dates LEFT JOIN login_statistics ON DATE(login_statistics.create_at) = dates.date GROUP BY date ORDER BY date
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'n' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'n' in 'field list'
+2024-06-03 15:01:37 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 15:01:37 - 异常信息: JWT expired at 2024-06-03T13:52:17Z. Current time: 2024-06-03T15:01:37Z, a difference of 4160193 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 16:33:13 - 类名:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver,文件名:AbstractMessageConverterMethodArgumentResolver.java,行数:211,办法名:readWithMessageConverters
+2024-06-03 16:33:13 - 异常信息: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2024-06-03 16:34:41 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:34:41 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 2 errors: [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [Pattern.sendEmailCodeRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@471058a6,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] 
+2024-06-03 16:38:24 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:38:24 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 3 errors: [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [Pattern.sendEmailCodeRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@471058a6,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'email': rejected value []; codes [NotBlank.sendEmailCodeRequest.email,NotBlank.email,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.email,email]; arguments []; default message [email]]; default message [不能为空]] 
+2024-06-03 16:38:49 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:38:49 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 3 errors: [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [Pattern.sendEmailCodeRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@471058a6,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'email': rejected value []; codes [NotBlank.sendEmailCodeRequest.email,NotBlank.email,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.email,email]; arguments []; default message [email]]; default message [不能为空]] 
+2024-06-03 16:39:09 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:39:09 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 3 errors: [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [Pattern.sendEmailCodeRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@471058a6,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'email': rejected value []; codes [NotBlank.sendEmailCodeRequest.email,NotBlank.email,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.email,email]; arguments []; default message [email]]; default message [不能为空]] 
+2024-06-03 16:39:55 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:39:55 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 3 errors: [Field error in object 'sendEmailCodeRequest' on field 'email': rejected value []; codes [NotBlank.sendEmailCodeRequest.email,NotBlank.email,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.email,email]; arguments []; default message [email]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [Pattern.sendEmailCodeRequest.username,Pattern.username,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username],[Ljavax.validation.constraints.Pattern$Flag;@471058a6,^[a-zA-Z][a-zA-Z0-9_-]{5,}$]; default message [需要匹配正则表达式"^[a-zA-Z][a-zA-Z0-9_-]{5,}$"]] 
+2024-06-03 16:40:34 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 16:40:34 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.sendEmailCode(com.ojxchen.dto.sendEmailCodeRequest) throws java.lang.Exception with 2 errors: [Field error in object 'sendEmailCodeRequest' on field 'email': rejected value []; codes [NotBlank.sendEmailCodeRequest.email,NotBlank.email,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.email,email]; arguments []; default message [email]]; default message [不能为空]] [Field error in object 'sendEmailCodeRequest' on field 'username': rejected value []; codes [NotBlank.sendEmailCodeRequest.username,NotBlank.username,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sendEmailCodeRequest.username,username]; arguments []; default message [username]]; default message [不能为空]] 
+2024-06-03 16:43:28 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:43:28 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:43:28 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:43:28 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:43:28 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:43:28 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:47:17 - 类名:org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter,文件名:AbstractJackson2HttpMessageConverter.java,行数:391,办法名:readJavaType
+2024-06-03 16:47:17 - 异常信息: JSON parse error: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 13] (through reference chain: com.ojxchen.dto.sendEmailCodeRequest["username"])
+2024-06-03 16:47:35 - 类名:org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter,文件名:AbstractJackson2HttpMessageConverter.java,行数:391,办法名:readJavaType
+2024-06-03 16:47:35 - 异常信息: JSON parse error: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 13] (through reference chain: com.ojxchen.dto.sendEmailCodeRequest["username"])
+2024-06-03 16:47:57 - 类名:org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter,文件名:AbstractJackson2HttpMessageConverter.java,行数:391,办法名:readJavaType
+2024-06-03 16:47:57 - 异常信息: JSON parse error: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 13] (through reference chain: com.ojxchen.dto.sendEmailCodeRequest["username"])
+2024-06-03 16:50:38 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:50:38 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:50:50 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:50:50 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:50:52 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:50:52 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:51:35 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:51:35 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:51:49 - 类名:org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter,文件名:AbstractJackson2HttpMessageConverter.java,行数:391,办法名:readJavaType
+2024-06-03 16:51:49 - 异常信息: JSON parse error: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 13] (through reference chain: com.ojxchen.dto.sendEmailCodeRequest["username"])
+2024-06-03 16:52:02 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:52:02 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 16:55:18 - 类名:org.springframework.mail.javamail.MimeMailMessage,文件名:MimeMailMessage.java,行数:112,办法名:setTo
+2024-06-03 16:55:18 - 异常信息: Could not parse mail; nested exception is javax.mail.internet.AddressException: Illegal address in string ``''
+2024-06-03 17:02:35 - 类名:org.springframework.mail.javamail.JavaMailSenderImpl,文件名:JavaMailSenderImpl.java,行数:491,办法名:doSend
+2024-06-03 17:02:35 - 异常信息: Failed messages: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+
+2024-06-03 17:02:48 - 类名:org.springframework.mail.javamail.JavaMailSenderImpl,文件名:JavaMailSenderImpl.java,行数:491,办法名:doSend
+2024-06-03 17:02:48 - 异常信息: Failed messages: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+
+2024-06-03 17:03:02 - 类名:org.springframework.mail.javamail.JavaMailSenderImpl,文件名:JavaMailSenderImpl.java,行数:491,办法名:doSend
+2024-06-03 17:03:02 - 异常信息: Failed messages: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+
+2024-06-03 17:04:00 - 类名:org.springframework.mail.javamail.JavaMailSenderImpl,文件名:JavaMailSenderImpl.java,行数:491,办法名:doSend
+2024-06-03 17:04:00 - 异常信息: Failed messages: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+
+2024-06-03 18:54:11 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 18:54:11 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.login(com.ojxchen.dto.LoginRequest,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception: [Field error in object 'loginRequest' on field 'password': rejected value []; codes [NotBlank.loginRequest.password,NotBlank.password,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [loginRequest.password,password]; arguments []; default message [password]]; default message [不能为空]] 
+2024-06-03 18:54:22 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 18:54:22 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.login(com.ojxchen.dto.LoginRequest,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception: [Field error in object 'loginRequest' on field 'password': rejected value []; codes [NotBlank.loginRequest.password,NotBlank.password,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [loginRequest.password,password]; arguments []; default message [password]]; default message [不能为空]] 
+2024-06-03 18:54:27 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 18:54:27 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.login(com.ojxchen.dto.LoginRequest,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception: [Field error in object 'loginRequest' on field 'password': rejected value []; codes [NotBlank.loginRequest.password,NotBlank.password,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [loginRequest.password,password]; arguments []; default message [password]]; default message [不能为空]] 
+2024-06-03 18:54:38 - 类名:org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor,文件名:RequestResponseBodyMethodProcessor.java,行数:141,办法名:resolveArgument
+2024-06-03 18:54:38 - 异常信息: Validation failed for argument [0] in public com.ojxchen.R.R<?> com.ojxchen.controller.AuthController.login(com.ojxchen.dto.LoginRequest,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception: [Field error in object 'loginRequest' on field 'password': rejected value []; codes [NotBlank.loginRequest.password,NotBlank.password,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [loginRequest.password,password]; arguments []; default message [password]]; default message [不能为空]] 
+2024-06-03 20:28:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:28:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:28:38Z, a difference of 23567 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:29:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:29:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:29:38Z, a difference of 83575 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:30:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:30:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:30:38Z, a difference of 143576 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:31:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:31:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:31:38Z, a difference of 203570 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:32:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:32:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:32:38Z, a difference of 263563 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:33:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:33:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:33:38Z, a difference of 323571 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:34:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:34:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:34:38Z, a difference of 383579 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:35:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:35:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:35:38Z, a difference of 443571 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:36:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:36:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:36:38Z, a difference of 503573 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:37:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:37:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:37:38Z, a difference of 563568 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:38:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:38:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:38:38Z, a difference of 623568 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:39:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:39:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:39:38Z, a difference of 683577 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:40:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:40:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:40:38Z, a difference of 743577 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:41:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:41:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:41:38Z, a difference of 803570 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:42:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:42:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:42:38Z, a difference of 863575 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:43:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:43:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:43:38Z, a difference of 923575 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:44:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:44:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:44:38Z, a difference of 983577 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:45:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:45:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:45:38Z, a difference of 1043578 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:46:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:46:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:46:38Z, a difference of 1103576 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:47:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:47:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:47:38Z, a difference of 1163582 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:48:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:48:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:48:38Z, a difference of 1223571 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:49:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:49:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:49:38Z, a difference of 1283575 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:50:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:50:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:50:38Z, a difference of 1343583 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:51:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:51:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:51:38Z, a difference of 1403581 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:52:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:52:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:52:38Z, a difference of 1463572 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:53:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:53:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:53:38Z, a difference of 1523577 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:54:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:54:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:54:38Z, a difference of 1583577 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:55:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:55:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:55:38Z, a difference of 1643579 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:56:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:56:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:56:38Z, a difference of 1703579 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:57:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:57:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:57:38Z, a difference of 1763587 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:58:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:58:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:58:38Z, a difference of 1823582 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 20:59:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 20:59:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T20:59:38Z, a difference of 1883583 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:00:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:00:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:00:38Z, a difference of 1943581 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:01:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:01:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:01:38Z, a difference of 2003590 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:02:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:02:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:02:38Z, a difference of 2063580 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:03:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:03:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:03:38Z, a difference of 2123583 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:04:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:04:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:04:38Z, a difference of 2183582 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:05:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:05:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:05:38Z, a difference of 2243591 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:06:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:06:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:06:38Z, a difference of 2303582 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:07:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:07:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:07:38Z, a difference of 2363591 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:08:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:08:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:08:38Z, a difference of 2423586 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:09:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:09:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:09:38Z, a difference of 2483589 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:10:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:10:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:10:38Z, a difference of 2543587 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:11:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:11:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:11:38Z, a difference of 2603585 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:12:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:12:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:12:38Z, a difference of 2663585 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:13:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:13:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:13:38Z, a difference of 2723590 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:14:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:14:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:14:38Z, a difference of 2783588 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:15:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:15:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:15:38Z, a difference of 2843591 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:16:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:16:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:16:38Z, a difference of 2903588 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:17:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:17:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:17:38Z, a difference of 2963593 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:18:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:18:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:18:38Z, a difference of 3023594 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:19:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:19:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:19:38Z, a difference of 3083581 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:20:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:20:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:20:38Z, a difference of 3143586 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:21:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:21:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:21:38Z, a difference of 3203585 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:22:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:22:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:22:38Z, a difference of 3263593 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:23:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:23:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:23:38Z, a difference of 3323592 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:24:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:24:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:24:38Z, a difference of 3383585 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:25:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:25:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:25:38Z, a difference of 3443594 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:26:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:26:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:26:38Z, a difference of 3503588 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:27:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:27:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:27:38Z, a difference of 3563599 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:28:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:28:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:28:38Z, a difference of 3623589 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:29:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:29:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:29:38Z, a difference of 3683588 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:30:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:30:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:30:38Z, a difference of 3743595 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:31:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:31:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:31:38Z, a difference of 3803589 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:32:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:32:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:32:38Z, a difference of 3863600 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:33:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:33:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:33:38Z, a difference of 3923599 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:34:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:34:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:34:38Z, a difference of 3983598 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:35:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:35:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:35:38Z, a difference of 4043594 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:36:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:36:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:36:38Z, a difference of 4103602 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:37:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:37:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:37:38Z, a difference of 4163589 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:38:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:38:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:38:38Z, a difference of 4223594 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:39:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:39:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:39:38Z, a difference of 4283603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:40:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:40:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:40:38Z, a difference of 4343595 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:41:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:41:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:41:38Z, a difference of 4403601 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:42:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:42:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:42:38Z, a difference of 4463603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:43:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:43:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:43:38Z, a difference of 4523600 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:44:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:44:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:44:38Z, a difference of 4583599 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:45:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:45:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:45:38Z, a difference of 4643603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:46:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:46:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:46:38Z, a difference of 4703603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:47:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:47:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:47:38Z, a difference of 4763601 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:48:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:48:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:48:38Z, a difference of 4823604 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:49:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:49:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:49:38Z, a difference of 4883601 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:50:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:50:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:50:38Z, a difference of 4943596 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:51:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:51:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:51:38Z, a difference of 5003609 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:52:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:52:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:52:38Z, a difference of 5063603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:53:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:53:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:53:38Z, a difference of 5123602 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:54:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:54:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:54:38Z, a difference of 5183610 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:55:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:55:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:55:38Z, a difference of 5243602 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:56:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:56:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:56:38Z, a difference of 5303600 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:57:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:57:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:57:38Z, a difference of 5363599 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:58:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:58:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:58:38Z, a difference of 5423601 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 21:59:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 21:59:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T21:59:38Z, a difference of 5483605 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:00:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:00:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:00:38Z, a difference of 5543608 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:01:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:01:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:01:38Z, a difference of 5603599 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:02:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:02:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:02:38Z, a difference of 5663603 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:03:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:03:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:03:38Z, a difference of 5723608 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:04:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:04:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:04:38Z, a difference of 5783604 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:05:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:05:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:05:38Z, a difference of 5843611 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:06:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:06:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:06:38Z, a difference of 5903612 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:07:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:07:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:07:38Z, a difference of 5963602 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:08:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:08:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:08:38Z, a difference of 6023604 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:09:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:09:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:09:38Z, a difference of 6083614 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:10:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:10:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:10:38Z, a difference of 6143604 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:11:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:11:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:11:38Z, a difference of 6203616 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:12:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:12:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:12:38Z, a difference of 6263609 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:13:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:13:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:13:38Z, a difference of 6323619 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:14:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:14:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:14:38Z, a difference of 6383614 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:15:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:15:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:15:38Z, a difference of 6443617 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:16:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:16:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:16:38Z, a difference of 6503612 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:17:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:17:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:17:38Z, a difference of 6563607 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:18:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:18:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:18:38Z, a difference of 6623605 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:19:38 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:19:38 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:19:38Z, a difference of 6683607 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-06-03 22:20:43 - 类名:io.jsonwebtoken.impl.DefaultJwtParser,文件名:DefaultJwtParser.java,行数:385,办法名:parse
+2024-06-03 22:20:43 - 异常信息: JWT expired at 2024-06-03T20:28:15Z. Current time: 2024-06-03T22:20:43Z, a difference of 6748141 milliseconds.  Allowed clock skew: 0 milliseconds.
